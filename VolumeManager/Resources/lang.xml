@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AI_VolumeManager>
+  <Lang Name="en-us">
+    <Init Text="Loaded successfully"/>
+    <ReduceRate Text="Volume reduction rate"/>
+    <MuteKey Text="Key to mute"/>
+  </Lang>
+  <Lang Name="zh-cn">
+    <Init Text="成功加载"/>
+    <ReduceRate Text="音量缩减比例"/>
+    <MuteKey Text="静音快捷键"/>
+  </Lang>
+</AI_VolumeManager>
